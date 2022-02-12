@@ -41,7 +41,7 @@
 <div class="container">
   <br>
   <br>
-  <span style="font-family: 'Merriweather', serif;"><h1>About Us</h1></span>
+  <span style="font-family: 'Merriweather', serif;"><h1>About us</h1></span>
   <br>
 
 <font size="4">  <p style="font-family: 'Slabo 40px', serif;
