@@ -11,7 +11,7 @@
     <!-- Material Design for Bootstrap CSS -->
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
 
-    <title>About Us</title>
+    <title>About us</title>
 
 <!-- custom CSS -->
   <link href="css/dropdown.css" rel="stylesheet">
@@ -41,7 +41,7 @@
 <div class="container">
   <br>
   <br>
-  <span style="font-family: 'Merriweather', serif;"><h1>About Us</h1></span>
+  <span style="font-family: 'Merriweather', serif;"><h1>About us</h1></span>
   <br>
 
 <font size="4">  <p style="font-family: 'Slabo 40px', serif;
